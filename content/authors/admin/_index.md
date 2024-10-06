@@ -50,6 +50,7 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
+  - Change one
 
 education:
   - area: PhD Artificial Intelligence
